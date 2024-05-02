@@ -15,5 +15,6 @@ public class Main {
 //        System.out.println(list.deleteLast());
         System.out.println(list.delete(3));
         list.display();
+
     }
 }
